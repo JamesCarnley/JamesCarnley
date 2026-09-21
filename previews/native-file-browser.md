@@ -25,31 +25,19 @@ I care about privacy, public goods, and an internet that belongs to the people u
 <details open>
 <summary><strong>📁 nanda/</strong> &nbsp; Agent interoperability</summary>
 <p>My work with NANDA explores how independently operated agents discover one another and work together. I'm especially interested in interoperability and testing what happens when things break.</p>
-<table>
-<tr>
-<td>📁 <a href="https://github.com/projnanda/nandatown"><strong>town/</strong></a></td>
-<td>Contributing to a test environment for agent interactions, failures, and recovery.</td>
-</tr>
-<tr>
-<td>📁 <a href="https://github.com/JamesCarnley/NandaCity"><strong>city/</strong></a></td>
-<td>An early prototype for portable agent identity, with discovery integration in progress.</td>
-</tr>
-</table>
+<ul>
+<li><a href="https://github.com/projnanda/nandatown"><strong>town/</strong></a><br>Contributing to a test environment for agent interactions, failures, and recovery.</li>
+<li><a href="https://github.com/JamesCarnley/NandaCity"><strong>city/</strong></a><br>An early prototype for portable agent identity, with discovery integration in progress.</li>
+</ul>
 </details>
 </td></tr>
 <tr><td>
 <details open>
 <summary><strong>📁 playground/</strong> &nbsp; Games &amp; experiments</summary>
-<table>
-<tr>
-<td>📁 <a href="https://github.com/JamesCarnley/lunatic-fringe"><strong>lunatic-fringe/</strong></a></td>
-<td>Recreating the classic After Dark space game for modern browsers. Some software deserves to outlive the machine it shipped on.</td>
-</tr>
-<tr>
-<td>📁 <a href="https://github.com/JamesCarnley/RimAI"><strong>rimai/</strong></a></td>
-<td>An AI colony advisor for RimWorld, because there are a lot of ways for a colony to go wrong.</td>
-</tr>
-</table>
+<ul>
+<li><a href="https://github.com/JamesCarnley/lunatic-fringe"><strong>lunatic-fringe/</strong></a><br>Recreating the classic After Dark space game for modern browsers. Some software deserves to outlive the machine it shipped on.</li>
+<li><a href="https://github.com/JamesCarnley/RimAI"><strong>rimai/</strong></a><br>An AI colony advisor for RimWorld, because there are a lot of ways for a colony to go wrong.</li>
+</ul>
 </details>
 </td></tr>
 </tbody>
