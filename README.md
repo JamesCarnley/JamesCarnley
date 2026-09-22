@@ -15,7 +15,7 @@ I care about privacy, public goods, and an internet that belongs to the people u
 <tbody>
 <tr><td>
 <details open>
-<summary><strong>📁 efs/</strong> &nbsp; Ethereum File System</summary>
+<summary><strong>📁 /efs/</strong> &nbsp; Ethereum File System</summary>
 <br>
 <p>The World Computer needs a way to organize its information. I'm building EFS as an open-source public good for organizing and using onchain data, with shared namespaces and views shaped by the sources you choose to trust.</p>
 <p>The bigger goal: applications that can share information without sharing a gatekeeper, and people who can change tools without leaving their data behind.</p>
@@ -24,7 +24,7 @@ I care about privacy, public goods, and an internet that belongs to the people u
 </td></tr>
 <tr><td>
 <details open>
-<summary><strong>📁 nanda/</strong> &nbsp; Agent interoperability</summary>
+<summary><strong>📁 /nanda/</strong> &nbsp; Agent interoperability</summary>
 <br>
 <p>My work with NANDA explores how independently operated agents discover one another and work together. I'm especially interested in interoperability and testing what happens when things break.</p>
 <ul>
@@ -35,10 +35,10 @@ I care about privacy, public goods, and an internet that belongs to the people u
 </td></tr>
 <tr><td>
 <details open>
-<summary><strong>📁 playground/</strong> &nbsp; Games &amp; experiments</summary>
+<summary><strong>📁 /playground/</strong> &nbsp; Games &amp; experiments</summary>
 <br>
 <ul>
-<li><a href="https://github.com/JamesCarnley/lunatic-fringe"><strong>lunatic-fringe/</strong></a><br>Recreating the classic After Dark space game for modern browsers. Some software deserves to outlive the machine it shipped on.</li>
+<li><a href="https://github.com/JamesCarnley/lunatic-fringe"><strong>lunatic-fringe/</strong></a><br>Recreating the classic After Dark space game for modern browsers. Software deserves to outlive the machine it shipped on.</li>
 <li><a href="https://github.com/JamesCarnley/RimAI"><strong>rimai/</strong></a><br>An AI colony advisor for RimWorld, because there are a lot of ways for a colony to go wrong.</li>
 </ul>
 </details>
